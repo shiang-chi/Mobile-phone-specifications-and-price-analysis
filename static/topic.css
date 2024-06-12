@@ -1,0 +1,18 @@
+html, body {
+  /*height: 100%;*/
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+}
+
+body {
+  background-image: url('source/topic背景.gif');
+  background-size: 100% 100%; /* 圖片會強制填滿整個背景 */
+  /*background-position: center; /* 圖片置中 */
+  background-repeat: no-repeat; /* 防止背景圖片重複 */
+  background-attachment: fixed; /* 背景固定，不隨視窗滾動 */
+}
+
+
+/*<link rel="stylesheet" href="{{url_for("static",filename="main.css")}}">

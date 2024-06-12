@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>手機價格預測</title>
+    <style>
+        .price {
+            color: red;
+            font-size: 2em;
+        }
+        .first-column {
+            width: 125px;
+        }
+        table {
+            table-layout: fixed;
+            width: 1000px; /* 固定表格的总宽度 */
+        }
+
+    </style>
+</head>
+
+<body style="display: flex;">
+    <div>
+        <form action="{{url_for('data')}}" method="POST">
+            <h2>手機價格預測</h2>
+            <h3>請輸入規格</h3>
+            品牌名稱<br>
+            <input type="text" name="brand" /></br>
+            螢幕尺寸<br>
+            <input type="float" name="screen" /></br>
+            電池容量<br>
+            <input type="int" name="battery" /></br>
+            相機畫素<br>
+            <input type="float" name="camera" /></br>
+            記憶體大小(GB)<br>
+            <input type="int" name="ram" /></br>
+            儲存容量<br>
+            <input type="int" name="storage" /></br>
+            <br>
+            <input type="submit" value="送出" /></br>
+        </form>
+        </br>
+        {% if prediction is not none %}
+        <h3>預測價格： <span class="price">{{prediction}}</span></h3>
+        {% endif %}
+    </div>
+    <div>
+        <h2>~本站推薦~<h2>
+                <table style="table-layout: fixed;">
+                    <tr>
+                        <td class="first-column"></td>
+                        <td><img src="{{img1}}"></td>
+                        <td><img src="{{img2}}"></td>
+                        <td><img src="{{img3}}"></td>
+                        <td><img src="{{img4}}"></td>
+                        <td><img src="{{img5}}"></td>
+                    </tr>
+                    <tr>
+                        <td class="first-column">手機名稱</td>
+                        <td>{{phone_name1}}</td>
+                        <td>{{phone_name2}}</td>
+                        <td>{{phone_name3}}</td>
+                        <td>{{phone_name4}}</td>
+                        <td>{{phone_name5}}</td>
+                    </tr>
+                    <tr>
+                        <td class="first-column">螢幕尺寸</td>
+                        <td>{{screen1}}</td>
+                        <td>{{screen2}}</td>
+                        <td>{{screen3}}</td>
+                        <td>{{screen4}}</td>
+                        <td>{{screen5}}</td>
+                    </tr>
+                    <tr>
+                        <td class="first-column">電池容量</td>
+                        <td>{{battery1}}</td>
+                        <td>{{battery2}}</td>
+                        <td>{{battery3}}</td>
+                        <td>{{battery4}}</td>
+                        <td>{{battery5}}</td>
+                    </tr>
+                    <tr>
+                        <td class="first-column">相機畫素</td>
+                        <td>{{camera1}}</td>
+                        <td>{{camera2}}</td>
+                        <td>{{camera3}}</td>
+                        <td>{{camera4}}</td>
+                        <td>{{camera5}}</td>
+                    </tr>
+                    <tr>
+                        <td class="first-column">記憶體大小</td>
+                        <td>{{ram1}}</td>
+                        <td>{{ram2}}</td>
+                        <td>{{ram3}}</td>
+                        <td>{{ram4}}</td>
+                        <td>{{ram5}}</td>
+                    </tr>
+                    <tr>
+                        <td class="first-column">儲存容量</td>
+                        <td>{{storage1}}</td>
+                        <td>{{storage2}}</td>
+                        <td>{{storage3}}</td>
+                        <td>{{storage4}}</td>
+                        <td>{{storage5}}</td>
+                    </tr>
+                </table>
+    </div>
+</body>
+
+</html>

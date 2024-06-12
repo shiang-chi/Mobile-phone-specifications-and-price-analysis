@@ -1,0 +1,574 @@
+brand,screen,battery,ram,camera,storage,price,phone_name,brand_photo,phone_photo
+Samsung,6.6,6000,8,50.0,256,520.0,Samsung Galaxy M35,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/61839-samsung-galaxy-m35.jpg
+Samsung,6.7,5000,8,50.0,128,560.0,Samsung Galaxy M55,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/60095-samsung-galaxy-m55.jpg
+Samsung,6.7,5000,8,50.0,128,300.0,Samsung Galaxy F55,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/61419-samsung-galaxy-f55.jpg
+Samsung,6.5,6000,4,50.0,128,173.87,Samsung Galaxy M15,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/59559-samsung-galaxy-m15.jpg
+Samsung,6.6,6000,4,50.0,128,150.0,Samsung Galaxy F15,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/59415-samsung-galaxy-f15.jpg
+Samsung,6.6,5000,6,50.0,128,322.99,Samsung Galaxy A55,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/59523-samsung-galaxy-a55.jpg
+Samsung,6.6,4050,4,50.0,64,280.33,Samsung Galaxy Xcover7,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/58281-samsung-galaxy-xcover7.jpg
+Samsung,6.2,4000,8,50.0,128,673.98,Samsung Galaxy S24,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/58591-samsung-galaxy-s24.jpg
+Samsung,6.7,4900,12,50.0,256,599.0,Samsung Galaxy S24+,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/58611-samsung-galaxy-s24-plus.jpg
+Samsung,6.8,5000,12,200.0,256,1049.0,Samsung Galaxy S24 Ultra,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/58631-samsung-galaxy-s24-ultra.jpg
+Samsung,6.6,5000,6,50.0,128,238.0,Samsung Galaxy A35,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/59539-samsung-galaxy-a35.jpg
+Samsung,6.5,5000,4,50.0,128,156.87,Samsung Galaxy A15 5G,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/57603-samsung-galaxy-a15-5g.jpg
+Samsung,6.5,5000,4,50.0,128,116.0,Samsung Galaxy A15,https://cdn.kalvo.com/lib/img/brands/samsung.svg,https://cdn.kalvo.com/uploads/img/large/57617-samsung-galaxy-a15.jpg
+Apple,6.1,3349,6,48.0,128,703.49,Apple iPhone 15,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/55287-apple-iphone-15.jpg
+Apple,6.7,4383,6,48.0,128,926.0,Apple iPhone 15 Plus,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/55267-apple-iphone-15-plus.jpg
+Apple,6.1,3274,8,48.0,128,969.5,Apple iPhone 15 Pro,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/55231-apple-iphone-15-pro.jpg
+Apple,6.7,4441,8,48.0,256,1117.15,Apple iPhone 15 Pro Max,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/55263-apple-iphone-15-pro-max.jpg
+Apple,6.7,4323,6,12.0,128,623.39,Apple iPhone 14 Plus,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/apple-iphone-14-plus.jpg
+Apple,6.1,3279,6,12.0,128,563.99,Apple iPhone 14,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/apple-iphone-14.jpg
+Apple,6.1,3200,6,48.0,128,778.0,Apple iPhone 14 Pro,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/apple-iphone-14-pro.jpg
+Apple,6.7,4323,6,48.0,128,869.0,Apple iPhone 14 Pro Max,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/58767-apple-iphone-14-pro-max.jpg
+Apple,4.7,2018,4,12.0,64,179.0,Apple iPhone SE (2022),https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/apple-iphone-se-2022.jpg
+Apple,5.4,2438,4,12.0,128,397.0,Apple iPhone 13 mini,https://cdn.kalvo.com/lib/img/brands/apple.svg,https://cdn.kalvo.com/uploads/img/large/apple-iphone-13-mini.jpg
+Huawei,6.6,4900,12,50.0,256,771.73,Huawei Pura 70,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/60659-huawei-pura-70.jpg
+Huawei,6.8,5050,12,50.0,256,1153.49,Huawei Pura 70 Pro,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/60645-huawei-pura-70-pro.jpg
+Huawei,6.8,5050,16,50.0,512,1050.0,Huawei Pura 70 Pro+,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/60633-huawei-pura-70-pro-plus.jpg
+Huawei,6.8,5200,16,50.0,512,1499.0,Huawei Pura 70 Ultra,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/60621-huawei-pura-70-ultra.jpg
+Huawei,6.7,5000,8,108.0,128,279.0,Huawei nova 12i,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/59793-huawei-nova-12i.jpg
+Huawei,6.67,4500,8,108.0,256,369.0,Huawei nova 12 SE,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/59797-huawei-nova-12-se.jpg
+Huawei,6.7,4500,8,50.0,256,499.0,Huawei nova 12s,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/59809-huawei-nova-12s.jpg
+Huawei,6.94,4520,12,50.0,256,960.0,Huawei Pocket 2,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/59121-huawei-pocket-2.jpg
+Huawei,6.75,6000,8,13.0,128,140.0,Huawei Enjoy 70z,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/59089-huawei-enjoy-70z.jpg
+Huawei,6.75,6000,8,50.0,128,240.0,Huawei nova Y72,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/58787-huawei-nova-y72.jpg
+Huawei,6.7,4500,8,50.0,256,320.0,Huawei nova 12 Lite,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/57965-huawei-nova-12-lite.jpg
+Huawei,6.76,4600,12,50.0,512,600.0,Huawei nova 12 Ultra,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/57915-huawei-nova-12-ultra.jpg
+Huawei,6.75,6000,8,50.0,128,160.0,Huawei Enjoy 70,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/57343-huawei-enjoy-70.jpg
+Huawei,6.67,4500,8,108.0,256,260.0,Huawei nova 11 SE,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/56551-huawei-nova-11-se.jpg
+Huawei,6.7,4600,8,50.0,256,380.0,Huawei nova 12,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/57933-huawei-nova-12.jpg
+Huawei,6.76,4600,12,50.0,256,510.0,Huawei nova 12 Pro,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/57949-huawei-nova-12-pro.jpg
+Huawei,6.82,5000,16,48.0,512,1550.0,Huawei Mate 60 RS Ultimate,https://cdn.kalvo.com/lib/img/brands/huawei.svg,https://cdn.kalvo.com/uploads/img/large/55661-huawei-mate-60-rs-ultimate.jpg
+Xiaomi,6.71,5000,3,8.0,64,60.0,Xiaomi Redmi A3x,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/61777-xiaomi-redmi-a3x.jpg
+Xiaomi,6.79,5030,6,50.0,128,180.0,Xiaomi Redmi Note 13R,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/61435-xiaomi-redmi-note-13r.jpg
+Xiaomi,6.67,5000,8,50.0,256,389.9,Xiaomi Poco F6,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/61721-xiaomi-poco-f6.jpg
+Xiaomi,6.67,5000,12,50.0,256,499.9,Xiaomi Poco F6 Pro,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/61731-xiaomi-poco-f6-pro.jpg
+Xiaomi,6.67,5000,12,50.0,256,260.0,Xiaomi Redmi Turbo 3,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/60353-xiaomi-redmi-turbo-3.jpg
+Xiaomi,6.55,4700,12,50.0,256,380.0,Xiaomi Civi 4 Pro,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/59889-xiaomi-civi-4-pro.jpg
+Xiaomi,6.73,5000,12,50.0,256,1284.32,Xiaomi 14 Ultra,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/59139-xiaomi-14-ultra.jpg
+Xiaomi,6.71,5000,3,8.0,64,80.72,Xiaomi Redmi A3,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/59061-xiaomi-redmi-a3.jpg
+Xiaomi,6.67,5000,8,64.0,256,188.98,Xiaomi Poco M6 Pro,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/58425-xiaomi-poco-m6-pro.jpg
+Xiaomi,6.67,5000,6,108.0,128,221.0,Xiaomi Redmi Note 13,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/58129-xiaomi-redmi-note-13.jpg
+Xiaomi,6.67,5000,6,108.0,128,149.0,Xiaomi Redmi Note 13 4G,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/58307-xiaomi-redmi-note-13-4g.jpg
+Xiaomi,6.67,5000,8,200.0,128,222.0,Xiaomi Redmi Note 13 Pro 4G,https://cdn.kalvo.com/lib/img/brands/xiaomi.svg,https://cdn.kalvo.com/uploads/img/large/58317-xiaomi-redmi-note-13-pro-4g.jpg
+Oppo,6.7,5000,12,50.0,256,350.0,Oppo Reno12 (China),https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/61673-oppo-reno12-china.jpg
+Oppo,6.7,5000,12,50.0,256,440.0,Oppo Reno12 Pro (China),https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/61661-oppo-reno12-pro-china.jpg
+Oppo,6.67,5500,8,50.0,256,170.0,Oppo K12x,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/61311-oppo-k12x.jpg
+Oppo,6.7,5500,8,50.0,256,250.0,Oppo K12,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/60809-oppo-k12.jpg
+Oppo,6.7,5000,8,64.0,256,260.0,Oppo A3 Pro,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/60487-oppo-a3-pro.jpg
+Oppo,6.7,5000,8,64.0,256,284.84,Oppo Reno11 F,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/59021-oppo-reno11-f.jpg
+Oppo,6.7,5000,8,50.0,128,345.0,Oppo Reno11,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/58413-oppo-reno11.jpg
+Oppo,6.78,5000,12,64.0,256,520.0,Oppo Find X7,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/58169-oppo-find-x7.jpg
+Oppo,6.82,5000,12,50.0,256,770.0,Oppo Find X7 Ultra,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/58187-oppo-find-x7-ultra.jpg
+Oppo,6.7,4800,8,50.0,256,320.0,Oppo Reno11 (China),https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/57107-oppo-reno11-china.jpg
+Oppo,6.74,4700,12,50.0,256,450.0,Oppo Reno11 Pro (China),https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/57083-oppo-reno11-pro-china.jpg
+Oppo,6.72,5000,12,50.0,256,220.0,Oppo A2,https://cdn.kalvo.com/lib/img/brands/oppo.svg,https://cdn.kalvo.com/uploads/img/large/56757-oppo-a2.jpg
+LG,5.3,2880,2,13.0,32,160.0,LG K30,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/52069-lg-k30.jpg
+LG,6.0,3300,6,16.0,64,350.0,LG V35 ThinQ,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-v35-thinq.jpg
+LG,5.5,3000,3,16.0,32,150.0,LG Q7,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-q7.jpg
+LG,6.2,3300,3,16.0,32,300.0,LG Q Stylus,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-q-stylus.jpg
+LG,6.2,3300,2,13.0,32,250.0,LG Q Stylo 4,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-q-stylo-4.jpg
+LG,5.3,3000,2,13.0,16,140.0,LG K11 Plus,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-k11-plus.jpg
+LG,6.2,3300,4,16.0,64,300.0,LG Q8 (2018),https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-q8-2018.jpg
+LG,6.4,3300,6,16.0,64,330.0,LG V40 ThinQ,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-v40-thinq.jpg
+LG,6.1,3000,4,16.0,32,350.0,LG G7 One,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-g7-one.jpg
+LG,6.1,3000,4,16.0,32,200.0,LG G7 Fit,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-g7-fit.jpg
+LG,5.0,2500,2,8.0,16,80.0,LG Candy,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-candy.jpg
+LG,6.1,3000,4,16.0,64,400.0,LG Q9,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-q9.jpg
+LG,6.1,3500,6,16.0,128,350.0,LG G8 ThinQ,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-g8-thinq.jpg
+LG,5.0,2500,2,8.0,16,70.0,LG Tribute Empire,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-tribute-empire.jpg
+LG,6.26,3500,3,16.0,64,230.0,LG Q60,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-q60.jpg
+LG,6.26,3500,3,13.0,32,180.0,LG K50,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-k50.jpg
+LG,5.7,3000,2,16.0,32,140.0,LG K40,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-k40.jpg
+LG,6.4,4000,6,16.0,128,550.0,LG V50 ThinQ 5G,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-v50-thinq-5g.jpg
+LG,6.21,3550,6,13.0,64,480.0,LG G8S ThinQ,https://cdn.kalvo.com/lib/img/brands/lg.svg,https://cdn.kalvo.com/uploads/img/large/lg-g8s-thinq.jpg
+Motorola,6.7,4500,12,64.0,256,510.0,Motorola Moto X50 Ultra,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/61415-motorola-moto-x50-ultra.jpg
+Motorola,6.56,5000,4,50.0,64,109.0,Motorola Moto G04s,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/60889-motorola-moto-g04s.jpg
+Motorola,6.7,4500,12,64.0,512,999.0,Motorola Edge 50 Ultra,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/60551-motorola-edge-50-ultra.jpg
+Motorola,6.7,4500,8,50.0,128,596.66,Motorola Edge 50 Pro,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/60579-motorola-edge-50-pro.jpg
+Motorola,6.7,5000,8,50.0,128,349.0,Motorola Edge 50 Fusion,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/60565-motorola-edge-50-fusion.jpg
+Motorola,6.56,5000,4,16.0,64,88.25,Motorola Moto G04,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/58717-motorola-moto-g04.jpg
+Motorola,6.56,5000,4,50.0,128,121.11,Motorola Moto G24,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/58709-motorola-moto-g24.jpg
+Motorola,6.7,5000,8,50.0,256,370.0,Motorola Moto G Stylus 5G (2024),https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/61221-motorola-moto-g-stylus-5g-2024.jpg
+Motorola,6.5,5000,4,50.0,64,104.39,Motorola Moto G34,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/58673-motorola-moto-g34.jpg
+Motorola,6.5,5000,4,50.0,128,166.9,Motorola Moto G54,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/55063-motorola-moto-g54-china.jpg
+Motorola,6.5,5000,8,50.0,256,219.0,Motorola Moto G84,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/54753-motorola-moto-g84.jpg
+Motorola,6.55,5000,8,50.0,128,245.21,Motorola Edge 40 Neo,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/55329-motorola-edge-40-neo.jpg
+Motorola,6.5,5000,4,50.0,128,74.9,Motorola Moto G14,https://cdn.kalvo.com/lib/img/brands/motorola.svg,https://cdn.kalvo.com/uploads/img/large/54025-motorola-moto-g14.jpg
+OnePlus,6.74,5500,12,50.0,256,260.0,OnePlus Ace 3V,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/59905-oneplus-ace-3v.jpg
+OnePlus,6.72,5000,4,50.0,128,215.88,OnePlus Nord N30 SE,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/58857-oneplus-nord-n30-se.jpg
+OnePlus,6.78,5500,12,50.0,256,340.0,OnePlus Ace 3,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/58111-oneplus-ace-3.jpg
+OnePlus,6.78,5500,8,50.0,128,593.42,OnePlus 12R,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/58745-oneplus-12r.jpg
+OnePlus,6.82,5400,12,64.0,256,848.0,OnePlus 12,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/57369-oneplus-12.jpg
+OnePlus,7.82,4805,16,64.0,512,1827.51,OnePlus Open,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/56303-oneplus-open.jpg
+OnePlus,6.74,5000,12,50.0,256,380.0,OnePlus Ace 2 Pro,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/54405-oneplus-ace-2-pro.jpg
+OnePlus,6.72,5000,8,108.0,128,206.89,OnePlus Nord CE 3 Lite,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/50247-oneplus-nord-ce-3-lite.jpg
+OnePlus,6.74,5000,12,64.0,256,310.0,OnePlus Ace 2V,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/48821-oneplus-ace-2v.jpg
+OnePlus,6.74,5000,8,50.0,128,329.0,OnePlus Nord 3,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/53185-oneplus-nord-3.jpg
+OnePlus,6.74,5000,12,50.0,256,390.0,OnePlus Ace 2,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/47293-oneplus-ace-2.jpg
+OnePlus,6.56,5000,4,48.0,64,230.0,OnePlus Nord N300,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/44149-oneplus-nord-n300.jpg
+OnePlus,6.7,5000,8,50.0,128,638.49,OnePlus 11,https://cdn.kalvo.com/lib/img/brands/oneplus.svg,https://cdn.kalvo.com/uploads/img/large/45937-oneplus-11.jpg
+Lenovo,8.8,6550,12,13.0,256,600.0,Lenovo Legion Y700 (2023),https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/54441-lenovo-legion-y700-2023.jpg
+Lenovo,6.5,5000,4,48.0,64,200.0,Lenovo K14 Plus,https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/44929-lenovo-k14-plus.jpg
+Lenovo,6.2,3300,6,16.0,64,200.0,Lenovo Z5,https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/lenovo-z5.jpg
+Lenovo,5.45,4000,2,13.0,16,120.0,Lenovo A5,https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/lenovo-a5.jpg
+Lenovo,6.0,3760,3,16.0,32,150.0,Lenovo K5 Note (2018),https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/lenovo-k5-note-2018.jpg
+Lenovo,6.67,5100,8,50.0,128,440.0,Lenovo Legion Y70,https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/lenovo-legion-y70.jpg
+Lenovo,6.39,3350,6,24.0,64,300.0,Lenovo Z5 Pro,https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/lenovo-z5-pro.jpg
+Lenovo,5.7,3000,3,13.0,32,130.0,Lenovo K9,https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/lenovo-k9.jpg
+Lenovo,5.99,4050,4,16.0,64,150.0,Lenovo K5 Pro,https://cdn.kalvo.com/lib/img/brands/Lenovo.svg,https://cdn.kalvo.com/uploads/img/large/lenovo-k5-pro.jpg
+Nokia,2.4,1450,64,2.0,128,74.15,Nokia 3210,https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/61145-nokia-3210.jpg
+Nokia,2.8,1450,8,2.0,16,70.0,Nokia 230 (2024),https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/60455-nokia-230-2024.jpg
+Nokia,2.8,1450,8,0.3,16,60.0,Nokia 5310 (2024),https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/60445-nokia-5310-2024.jpg
+Nokia,2.8,1450,8,0.3,16,70.0,Nokia 6310 (2024),https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/60435-nokia-6310-2024.jpg
+Nokia,6.56,5000,4,50.0,128,170.0,Nokia G310,https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/54383-nokia-g310.jpg
+Nokia,2.4,1450,4,0.08,8,55.99,Nokia 150 (2023),https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/54281-nokia-150-2023.jpg
+Nokia,2.4,1450,4,0.0,8,20.0,Nokia 130 (2023),https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/54267-nokia-130-2023.jpg
+Nokia,6.56,5000,4,50.0,128,139.9,Nokia G42,https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/53013-nokia-g42.jpg
+Nokia,6.3,3000,3,13.0,32,100.0,Nokia C110,https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/52431-nokia-c110.jpg
+Nokia,1.8,1450,0,0.08,0,50.4,Nokia 110 4G (2023),https://cdn.kalvo.com/lib/img/brands/nokia.svg,https://cdn.kalvo.com/uploads/img/large/51841-nokia-110-4g-2023.jpg
+Google,6.1,4492,8,64.0,128,549.0,Google Pixel 8a,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/61135-google-pixel-8a.jpg
+Google,6.2,4575,8,50.0,128,508.31,Google Pixel 8,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/56029-google-pixel-8.jpg
+Google,6.7,5050,12,50.0,128,690.9,Google Pixel 8 Pro,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/56039-google-pixel-8-pro.jpg
+Google,7.6,4821,12,48.0,256,943.9,Google Pixel Fold,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/51505-google-pixel-fold.jpg
+Google,6.1,4385,8,64.0,128,347.9,Google Pixel 7a,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/51467-google-pixel-7a.jpg
+Google,6.7,5000,8,50.0,128,328.91,Google Pixel 7 Pro,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-7-pro.jpg
+Google,6.3,4355,8,50.0,128,307.88,Google Pixel 7,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/43955-google-pixel-7.jpg
+Google,5.5,2915,4,12.2,64,450.0,Google Pixel 3,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-3.jpg
+Google,6.3,3430,4,12.2,64,260.0,Google Pixel 3 XL,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-3-xl.jpg
+Google,5.6,3000,4,12.2,64,139.5,Google Pixel 3a,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-3a.jpg
+Google,6.0,3700,4,12.2,64,290.0,Google Pixel 3a XL,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-3a-xl.jpg
+Google,6.3,3700,6,16.0,64,199.95,Google Pixel 4 XL,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-4-xl.jpg
+Google,5.7,2800,6,16.0,64,139.19,Google Pixel 4,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-4.jpg
+Google,5.81,3140,6,12.2,128,157.7,Google Pixel 4a,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-4a.jpg
+Google,6.2,3885,6,16.0,128,212.99,Google Pixel 4a 5G,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/56151-google-pixel-4a-5g.jpg
+Google,6.0,4080,8,16.0,128,211.99,Google Pixel 5,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-5.jpg
+Google,6.1,4410,6,12.2,128,217.08,Google Pixel 6a,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/47681-google-pixel-6a.jpg
+Google,6.7,5003,12,50.0,128,294.45,Google Pixel 6 Pro,https://cdn.kalvo.com/lib/img/brands/google.svg,https://cdn.kalvo.com/uploads/img/large/google-pixel-6-pro.jpg
+Tecno,6.67,5000,8,64.0,256,270.0,Tecno Camon 20 Pro 5G,https://cdn.kalvo.com/lib/img/brands/tecno-mobile.svg,https://cdn.kalvo.com/uploads/img/large/51293-tecno-camon-20-pro-5g.jpg
+Asus,6.78,5500,12,50.0,256,999.99,Asus Zenfone 11 Ultra,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/59669-asus-zenfone-11-ultra.jpg
+Asus,6.78,5500,12,50.0,256,1055.99,Asus ROG Phone 8,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/58221-asus-rog-phone-8.jpg
+Asus,6.78,5500,16,50.0,512,1199.99,Asus ROG Phone 8 Pro,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/58201-asus-rog-phone-8-pro.jpg
+Asus,5.92,4300,8,50.0,128,656.06,Asus Zenfone 10,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/53023-asus-zenfone-10.jpg
+Asus,6.78,6000,16,50.0,512,780.95,Asus ROG Phone 7 Ultimate,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/50583-asus-rog-phone-7-ultimate.jpg
+Asus,6.78,6000,12,50.0,256,788.9,Asus ROG Phone 7,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/50571-asus-rog-phone-7.jpg
+Asus,6.78,6000,16,50.0,512,881.67,Asus ROG Phone 6 Diablo Immortal Edition,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/44579-asus-rog-phone-6-diablo-immortal-edition.jpg
+Asus,5.5,3000,1,13.0,16,100.0,Asus ZenFone Live (L1) ZA550KL,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-zenfone-live-l1-za550kl.jpg
+Asus,6.78,6000,12,50.0,256,1500.0,Asus ROG Phone 6 Batman Edition,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-rog-phone-6-batman-edition.jpg
+Asus,6.78,6000,16,50.0,512,999.0,Asus ROG Phone 6D Ultimate,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-rog-phone-6d-ultimate.jpg
+Asus,6.0,4000,8,12.0,128,1110.0,Asus ROG Phone ZS600KL,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-rog-phone-zs600kl.jpg
+Asus,5.9,4300,6,50.0,128,439.68,Asus Zenfone 9,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-zenfone-9.jpg
+Asus,6.78,6000,8,50.0,128,481.78,Asus ROG Phone 6,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-rog-phone-6.jpg
+Asus,6.78,6000,18,50.0,512,800.0,Asus ROG Phone 6 Pro,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-rog-phone-6-pro.jpg
+Asus,5.45,3000,2,13.0,16,80.0,Asus ZenFone Lite (L1) ZA551KL,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-zenfone-lite-l1-za551kl.jpg
+Asus,5.45,4000,3,13.0,32,120.0,Asus Zenfone Max (M1) ZB556KL,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-zenfone-max-m1-zb556kl.jpg
+Asus,6.26,5000,3,12.0,32,370.0,Asus Zenfone Max Pro (M2) ZB631KL,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-zenfone-max-pro-m2-zb631kl.jpg
+Asus,6.26,4000,3,12.0,32,310.0,Asus Zenfone Max Shot ZB634KL,https://cdn.kalvo.com/lib/img/brands/asus.svg,https://cdn.kalvo.com/uploads/img/large/asus-zenfone-max-shot-zb634kl.jpg
+Realme,6.67,5000,4,50.0,128,130.0,Realme Narzo N65,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/61849-realme-narzo-n65.jpg
+Realme,6.78,5500,12,50.0,256,270.0,Realme GT Neo6,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/61203-realme-gt-neo6.jpg
+Realme,6.67,5000,4,50.0,64,120.0,Realme C65 5G,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/60851-realme-c65-5g.jpg
+Realme,6.72,5000,6,108.0,128,300.0,Realme 12 Lite,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/60697-realme-12-lite.jpg
+Realme,6.67,5000,6,50.0,128,169.52,Realme C65,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/60161-realme-c65.jpg
+Realme,6.78,5500,8,50.0,256,250.0,Realme GT Neo6 SE,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/60417-realme-gt-neo6-se.jpg
+Realme,6.67,5000,6,50.0,128,250.0,Realme 12x,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/59917-realme-12x.jpg
+Realme,6.67,5000,6,50.0,128,387.87,Realme 12+,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/59313-realme-12-plus.jpg
+Realme,6.7,5000,8,50.0,128,329.99,Realme 12 Pro,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/58827-realme-12-pro.jpg
+Realme,6.7,5000,8,64.0,128,429.99,Realme 12 Pro+,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/58841-realme-12-pro-plus.jpg
+Realme,6.74,5000,3,13.0,64,94.89,Realme Note 50,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/58735-realme-note-50.jpg
+Realme,6.72,5000,6,108.0,128,160.0,Realme C67 4G,https://cdn.kalvo.com/lib/img/brands/realme.svg,https://cdn.kalvo.com/uploads/img/large/57785-realme-c67-4g.jpg
+Meizu,6.78,5500,16,50.0,256,330.0,Meizu 21 Note,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/61383-meizu-21-note.jpg
+Meizu,6.79,5050,12,50.0,256,640.0,Meizu 21 Pro,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/59323-meizu-21-pro.jpg
+Meizu,6.55,4800,8,200.0,256,440.0,Meizu 21,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/57303-meizu-21.jpg
+Meizu,6.55,4700,16,50.0,256,400.0,Meizu 20 Classic,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/56289-meizu-20-classic.jpg
+Meizu,6.79,4800,12,50.0,256,820.0,Meizu 20 Infinity,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/52681-meizu-20-infinity.jpg
+Meizu,6.55,4700,12,50.0,128,400.0,Meizu 20,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/50047-meizu-20.jpg
+Meizu,6.81,5000,12,50.0,128,530.0,Meizu 20 Pro,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/50027-meizu-20-pro.jpg
+Meizu,5.45,3070,2,13.0,16,140.0,MEIZU M8c,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-m8c.jpg
+Meizu,5.7,3300,3,13.0,32,130.0,MEIZU M6T,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-m6t.jpg
+Meizu,6.5,3570,6,20.0,128,480.0,Meizu 16 Plus,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-16-plus.jpg
+Meizu,6.0,3010,6,20.0,64,410.0,Meizu 16,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-16.jpg
+Meizu,6.0,3100,6,20.0,64,300.0,Meizu 16X,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-16x.jpg
+Meizu,5.7,3100,4,12.0,64,150.0,Meizu V8 Pro,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-v8-pro.jpg
+Meizu,5.7,3200,3,13.0,32,100.0,MEIZU V8,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-v8.jpg
+Meizu,6.2,3210,4,12.0,64,200.0,Meizu X8,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-x8.jpg
+Meizu,6.0,3600,4,12.0,64,200.0,Meizu Note 8,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-note-8.jpg
+Meizu,6.2,3600,6,48.0,128,420.0,Meizu 16s,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-16s.jpg
+Meizu,5.45,3000,3,13.0,32,110.0,Meizu C9 Pro,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-c9-pro.jpg
+Meizu,5.45,3000,2,13.0,16,90.0,Meizu C9,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-c9.jpg
+Meizu,6.2,4000,4,48.0,64,200.0,Meizu Note 9,https://cdn.kalvo.com/lib/img/brands/meizu.svg,https://cdn.kalvo.com/uploads/img/large/meizu-note-9.jpg
+HTC,6.52,3000,2,8.0,16,100.0,HTC Wildfire E star,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/54137-htc-wildfire-e-star.jpg
+HTC,6.7,4600,8,108.0,256,333.99,HTC U23 Pro,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/51747-htc-u23-pro.jpg
+HTC,6.52,5150,2,13.0,32,130.0,HTC Wildfire E plus,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/44143-htc-wildfire-e-plus.jpg
+HTC,6.6,4520,8,64.0,128,460.0,HTC Desire 22 Pro,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/htc-desire-22-pro.jpg
+HTC,5.7,3075,3,13.0,32,200.0,HTC Desire 12s,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/htc-desire-12s.jpg
+HTC,6.2,3850,4,13.0,64,280.0,HTC Desire 19+,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/htc-desire-19-plus.jpg
+HTC,6.0,3930,6,20.0,128,420.0,HTC U19e,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/htc-u19e.jpg
+HTC,6.2,3300,3,12.0,32,150.0,HTC Wildfire X,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/htc-wildfire-x.jpg
+HTC,5.7,3075,4,13.0,64,220.0,HTC Exodus 1s,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/htc-exodus-1s.jpg
+HTC,6.2,3850,3,13.0,32,180.0,HTC Desire 19s,https://cdn.kalvo.com/lib/img/brands/htc.svg,https://cdn.kalvo.com/uploads/img/large/htc-desire-19s.jpg
+ZTE,6.6,5000,4,50.0,256,150.0,ZTE Axon 60 Lite,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/61199-zte-axon-60-lite.jpg
+ZTE,6.72,5000,6,50.0,256,200.0,ZTE Axon 60,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/61177-zte-axon-60.jpg
+ZTE,6.6,5000,4,50.0,128,149.78,ZTE nubia Music,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/59295-zte-nubia-music.jpg
+ZTE,6.56,5000,6,108.0,256,200.0,ZTE nubia Focus,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/59263-zte-nubia-focus.jpg
+ZTE,6.9,4310,8,50.0,128,600.0,ZTE nubia Flip,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/61615-zte-nubia-flip.jpg
+ZTE,6.6,5000,4,13.0,64,90.0,ZTE Blade A54,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/58045-zte-blade-a54.jpg
+ZTE,6.8,6000,8,64.0,256,829.0,ZTE nubia Z60 Ultra,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/57781-zte-nubia-z60-ultra.jpg
+ZTE,6.6,5000,4,50.0,128,120.0,ZTE Blade V50 Design 4G,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/57175-zte-blade-v50-design-4g.jpg
+ZTE,6.8,6500,8,50.0,256,749.0,ZTE nubia Red Magic 9 Pro,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/57057-zte-nubia-red-magic-9-pro.jpg
+ZTE,6.8,5500,16,50.0,256,710.0,ZTE nubia Red Magic 9 Pro+,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/57033-zte-nubia-red-magic-9-pro-plus.jpg
+ZTE,6.75,5200,4,50.0,256,109.99,ZTE Blade V50 Vita,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/56895-zte-blade-v50-vita.jpg
+ZTE,6.6,4500,4,50.0,128,200.0,ZTE Blade V50 Design,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/56081-zte-blade-v50-design.jpg
+ZTE,6.67,4800,6,50.0,256,127.33,ZTE Blade V50,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/56073-zte-blade-v50.jpg
+ZTE,6.6,5000,4,50.0,128,88.24,ZTE Blade A73,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/56063-zte-blade-a73.jpg
+ZTE,6.52,5000,4,50.0,128,123.99,ZTE Blade A73 5G,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/56055-zte-blade-a73-5g.jpg
+ZTE,6.75,5000,3,50.0,128,120.0,ZTE Blade A72s,https://cdn.kalvo.com/lib/img/brands/zte.svg,https://cdn.kalvo.com/uploads/img/large/54143-zte-blade-a72s.jpg
+Infinix,6.78,5000,12,108.0,512,220.0,Infinix Note 40 5G,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/61627-infinix-note-40-5g.jpg
+Infinix,6.78,5000,8,108.0,256,250.0,Infinix GT 20 Pro,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/60845-infinix-gt-20-pro.jpg
+Infinix,6.78,5000,8,108.0,256,180.0,Infinix Note 40,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/59745-infinix-note-40.jpg
+Infinix,6.78,5000,8,108.0,256,240.0,Infinix Note 40 Pro 4G,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/59739-infinix-note-40-pro-4g.jpg
+Infinix,6.78,4600,12,108.0,256,290.0,Infinix Note 40 Pro+,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/59735-infinix-note-40-pro-plus.jpg
+Infinix,6.78,5000,8,108.0,256,270.0,Infinix Note 40 Pro,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/59723-infinix-note-40-pro.jpg
+Infinix,6.6,6000,4,50.0,64,100.0,Infinix Smart 8 Plus,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/58931-infinix-smart-8-plus.jpg
+Infinix,6.6,5000,4,50.0,64,100.0,Infinix Smart 8 Pro,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/58897-infinix-smart-8-pro.jpg
+Infinix,6.6,5000,3,13.0,64,100.0,Infinix Smart 8,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/56873-infinix-smart-8.jpg
+Infinix,6.78,5000,8,108.0,256,180.0,Infinix Zero 30 4G,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/56433-infinix-zero-30-4g.jpg
+Infinix,6.67,5000,8,108.0,256,260.0,Infinix GT 10 Pro,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/54077-infinix-gt-10-pro.jpg
+Infinix,6.67,5000,8,108.0,256,280.0,Infinix Note 30 VIP,https://cdn.kalvo.com/lib/img/brands/infinix.svg,https://cdn.kalvo.com/uploads/img/large/52669-infinix-note-30-vip.jpg
+Honor,6.7,5200,8,50.0,256,320.0,Honor 200,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/61811-honor-200.jpg
+Honor,6.78,5200,12,50.0,256,450.0,Honor 200 Pro,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/61825-honor-200-pro.jpg
+Honor,6.7,4500,8,108.0,256,330.0,Honor 200 Lite,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/60833-honor-200-lite.jpg
+Honor,6.8,5330,4,108.0,128,189.75,Honor 90 Smart,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/60475-honor-90-smart.jpg
+Honor,6.8,5600,16,180.0,512,900.0,Honor Magic6 Ultimate,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/59709-honor-magic6-ultimate.jpg
+Honor,7.92,5000,16,50.0,1,2700.0,Honor Magic V2 RSR Porsche Design,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/58389-honor-magic-v2-rsr-porsche-design.jpg
+Honor,6.78,5450,12,50.0,256,570.0,Honor Magic6,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/58369-honor-magic6.jpg
+Honor,6.8,5600,12,180.0,256,999.0,Honor Magic6 Pro,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/58341-honor-magic6-pro.jpg
+Honor,6.78,5800,12,108.0,256,260.0,Honor X50 GT,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/58149-honor-x50-gt.jpg
+Honor,6.78,5800,12,108.0,256,360.0,Honor X50 Pro,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/58033-honor-x50-pro.jpg
+Honor,6.7,5000,12,50.0,256,330.0,Honor 90 GT,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/57815-honor-90-gt.jpg
+Honor,6.7,4500,6,108.0,128,199.0,Honor X8b,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/57731-honor-x8b.jpg
+Honor,6.78,5300,8,108.0,256,289.0,Honor Magic6 Lite,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/57421-honor-magic6-lite.jpg
+Honor,6.8,5330,6,108.0,128,179.0,Honor X7b,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/57313-honor-x7b.jpg
+Honor,6.7,5000,12,50.0,256,320.0,Honor 100,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/57127-honor-100.jpg
+Honor,6.78,5000,12,50.0,256,440.0,Honor 100 Pro,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/57141-honor-100-pro.jpg
+Honor,6.7,4500,12,108.0,256,210.0,Honor X50i+,https://cdn.kalvo.com/lib/img/brands/honor.svg,https://cdn.kalvo.com/uploads/img/large/56913-honor-x50i-plus.jpg
+Vivo,6.78,5160,12,50.0,256,340.0,Vivo iQOO Neo9s Pro,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61529-vivo-iqoo-neo9s-pro.jpg
+Vivo,6.72,6000,8,50.0,128,140.0,Vivo Y200t,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61519-vivo-y200t.jpg
+Vivo,6.78,6000,8,50.0,128,200.0,Vivo Y200 (China),https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61507-vivo-y200-china.jpg
+Vivo,6.78,6000,8,50.0,128,230.0,Vivo Y200 GT,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61497-vivo-y200-gt.jpg
+Vivo,6.78,5100,12,64.0,256,520.0,Vivo X100s,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61265-vivo-x100s.jpg
+Vivo,6.78,5400,12,50.0,256,640.0,Vivo X100s Pro,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61251-vivo-x100s-pro.jpg
+Vivo,6.78,5500,12,200.0,256,830.0,Vivo X100 Ultra,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61283-vivo-x100-ultra.jpg
+Vivo,6.56,5000,4,50.0,64,100.0,Vivo Y18,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/61015-vivo-y18.jpg
+Vivo,6.67,5000,8,50.0,256,230.0,Vivo Y100 4G,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60991-vivo-y100-4g.jpg
+Vivo,6.78,5500,8,50.0,128,310.0,Vivo V30e,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60963-vivo-v30e.jpg
+Vivo,6.67,5000,8,50.0,256,250.0,Vivo V30 SE,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60951-vivo-v30-se.jpg
+Vivo,6.78,6000,8,50.0,128,190.0,Vivo iQOO Z9 (China),https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60821-vivo-iqoo-z9-china.jpg
+Vivo,6.72,6000,8,50.0,128,160.0,Vivo iQOO Z9x,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60797-vivo-iqoo-z9x.jpg
+Vivo,6.72,6000,8,50.0,256,180.0,Vivo Y200i,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60685-vivo-y200i.jpg
+Vivo,6.72,6000,4,50.0,128,150.0,Vivo T3x,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60605-vivo-t3x.jpg
+Vivo,6.67,5000,8,50.0,128,280.0,Vivo V30 Lite 4G,https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60207-vivo-v30-lite-4g.jpg
+Vivo,6.67,5000,12,50.0,256,280.0,Vivo V30 Lite (ME),https://cdn.kalvo.com/lib/img/brands/vivo.svg,https://cdn.kalvo.com/uploads/img/large/60153-vivo-v30-lite-me.jpg
+Sony,6.5,5000,12,48.0,256,1399.0,Sony Xperia 1 VI,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/61333-sony-xperia-1-vi.jpg
+Sony,6.1,5000,8,48.0,128,399.0,Sony Xperia 10 VI,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/61323-sony-xperia-10-vi.jpg
+Sony,6.1,5000,8,48.0,128,679.16,Sony Xperia 5 V,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/54999-sony-xperia-5-v.jpg
+Sony,6.1,5000,6,48.0,128,263.77,Sony Xperia 10 V,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/51583-sony-xperia-10-v.jpg
+Sony,6.5,5000,12,48.0,256,865.9,Sony Xperia 1 V,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/51563-sony-xperia-1-v.jpg
+Sony,6.1,5000,8,12.0,128,698.99,Sony Xperia 5 IV,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-5-iv.jpg
+Sony,6.0,3300,4,19.0,64,510.0,Sony Xperia XZ3,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-xz3.jpg
+Sony,6.0,3580,4,23.0,32,240.0,Sony Xperia XA2 Plus,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-xa2-plus.jpg
+Sony,6.0,2870,3,13.0,64,280.0,Sony Xperia 10,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-10.jpg
+Sony,6.0,5000,6,12.0,128,191.99,Sony Xperia 10 IV,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-10-iv.jpg
+Sony,6.5,5000,12,12.0,256,849.99,Sony Xperia 1 IV,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/45101-sony-xperia-1-iv.jpg
+Sony,6.5,3330,6,12.0,64,500.0,Sony Xperia 1,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-1.jpg
+Sony,6.5,3000,4,12.0,64,560.0,Sony Xperia 10 Plus,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-10-plus.jpg
+Sony,5.7,3300,3,13.0,32,230.0,Sony Xperia L3,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-l3.jpg
+Sony,6.1,3140,6,12.0,128,500.0,Sony Xperia 5,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-5.jpg
+Sony,6.2,3580,3,13.0,64,200.0,Sony Xperia L4,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-l4.jpg
+Sony,6.0,3600,4,12.0,64,700.0,Sony Xperia 10 II,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-10-ii.jpg
+Sony,6.5,4000,8,12.0,256,700.0,Sony Xperia 1 II,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-1-ii.jpg
+Sony,6.1,4000,8,12.0,128,650.0,Sony Xperia 5 II,https://cdn.kalvo.com/lib/img/brands/sony.svg,https://cdn.kalvo.com/uploads/img/large/sony-xperia-5-ii.jpg
+CAT,6.6,5000,6,50.0,128,600.0,CAT S75,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/48071-cat-s75.jpg
+CAT,6.5,5500,6,48.0,128,530.0,CAT S53,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-s53.jpg
+CAT,2.4,2300,512,2.0,4,110.0,CAT B35,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-b35.jpg
+CAT,5.65,3100,4,12.0,64,440.0,CAT S52,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-s52.jpg
+CAT,5.5,4200,3,13.0,32,300.0,CAT S42,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-s42.jpg
+CAT,5.7,4000,4,48.0,128,440.0,CAT S62,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-s62.jpg
+CAT,5.7,4000,6,12.0,128,530.0,CAT S62 Pro,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-s62-pro.jpg
+CAT,2.8,2000,2,5.0,16,200.0,CAT S22 Flip,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-s22-flip.jpg
+CAT,5.5,4200,3,13.0,32,230.0,CAT S42 H+,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-s42-h-plus.jpg
+CAT,2.4,1800,512,2.0,4,110.0,CAT B40,https://cdn.kalvo.com/lib/img/brands/cat.svg,https://cdn.kalvo.com/uploads/img/large/cat-b40.jpg
+Microsoft,8.1,3577,6,11.0,128,650.0,Microsoft Surface Duo,https://cdn.kalvo.com/lib/img/brands/microsoft.svg,https://cdn.kalvo.com/uploads/img/large/microsoft-surface-duo.jpg
+Microsoft,8.3,4449,8,16.0,128,1480.0,Microsoft Surface Duo 2,https://cdn.kalvo.com/lib/img/brands/microsoft.svg,https://cdn.kalvo.com/uploads/img/large/microsoft-surface-duo-2.jpg
+BlackBerry,4.5,3500,6,12.0,64,500.0,BlackBerry KEY2,https://cdn.kalvo.com/lib/img/brands/blackberry.svg,https://cdn.kalvo.com/uploads/img/large/blackberry-key2.jpg
+BlackBerry,5.99,4000,4,13.0,64,300.0,BlackBerry Evolve,https://cdn.kalvo.com/lib/img/brands/blackberry.svg,https://cdn.kalvo.com/uploads/img/large/blackberry-evolve.jpg
+BlackBerry,5.99,4000,6,13.0,64,350.0,BlackBerry Evolve X,https://cdn.kalvo.com/lib/img/brands/blackberry.svg,https://cdn.kalvo.com/uploads/img/large/blackberry-evolve-x.jpg
+BlackBerry,4.5,3000,4,13.0,32,440.0,BlackBerry KEY2 LE,https://cdn.kalvo.com/lib/img/brands/blackberry.svg,https://cdn.kalvo.com/uploads/img/large/blackberry-key2-le.jpg
+Ulefone,6.78,15600,12,200.0,512,600.0,Ulefone Armor 26 Ultra Walkie-talkie,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/61131-ulefone-armor-26-ultra-walkie-talkie.jpg
+Ulefone,5.93,9600,8,50.0,128,229.99,Ulefone Power Armor 16S,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/59649-ulefone-power-armor-16s.jpg
+Ulefone,6.78,5050,12,108.0,256,299.99,Ulefone Note 17 Pro,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/58913-ulefone-note-17-pro.jpg
+Ulefone,6.78,5280,12,64.0,512,489.99,Ulefone Armor 23 Ultra,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/57843-ulefone-armor-23-ultra.jpg
+Ulefone,6.58,9600,12,108.0,512,599.99,Ulefone Power Armor 18T Ultra,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/56791-ulefone-power-armor-18t-ultra.jpg
+Ulefone,6.58,9600,12,108.0,512,500.0,Ulefone Power Armor 18 Ultra,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/56779-ulefone-power-armor-18-ultra.jpg
+Ulefone,6.78,22000,12,64.0,256,329.68,Ulefone Armor 24,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/55883-ulefone-armor-24.jpg
+Ulefone,5.45,4860,4,13.0,64,130.0,Ulefone Armor X12 Pro,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/54421-ulefone-armor-x12-pro.jpg
+Ulefone,5.45,8150,4,16.0,32,140.0,Ulefone Power Armor X11,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/52863-ulefone-power-armor-x11.jpg
+Ulefone,6.22,4000,2,8.0,32,80.0,Ulefone Note 15,https://cdn.kalvo.com/lib/img/brands/ulefone.svg,https://cdn.kalvo.com/uploads/img/large/52833-ulefone-note-15.jpg
+OUKITEL,6.52,10600,8,13.0,128,120.0,OUKITEL WP36,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/59959-oukitel-wp36.jpg
+OUKITEL,6.6,22000,8,64.0,256,339.99,OUKITEL WP33 Pro,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/58245-oukitel-wp33-pro.jpg
+OUKITEL,6.78,11000,12,108.0,512,529.99,OUKITEL WP30 Pro,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56675-oukitel-wp30-pro.jpg
+OUKITEL,6.8,5150,8,50.0,256,160.0,OUKITEL C33,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56665-oukitel-c33.jpg
+OUKITEL,6.52,5150,8,20.0,128,150.0,OUKITEL C32,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56655-oukitel-c32.jpg
+OUKITEL,6.78,9800,12,64.0,256,470.0,OUKITEL WP21 Ultra,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56649-oukitel-wp21-ultra.jpg
+OUKITEL,6.56,5150,12,50.0,256,190.0,OUKITEL C35,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56641-oukitel-c35.jpg
+OUKITEL,6.58,10000,8,48.0,256,240.0,OUKITEL WP22,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56637-oukitel-wp22.jpg
+OUKITEL,6.52,10600,4,13.0,64,160.0,OUKITEL WP23,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56617-oukitel-wp23.jpg
+OUKITEL,6.56,5150,4,13.0,128,107.0,OUKITEL C36,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56609-oukitel-c36.jpg
+OUKITEL,6.58,10000,16,48.0,256,280.0,OUKITEL WP26,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56603-oukitel-wp26.jpg
+OUKITEL,6.52,10600,8,48.0,256,200.0,OUKITEL WP28,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56591-oukitel-wp28.jpg
+OUKITEL,6.8,8500,12,64.0,256,280.0,OUKITEL WP27,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56587-oukitel-wp27.jpg
+OUKITEL,6.52,10600,8,13.0,128,130.0,OUKITEL WP23Pro,https://cdn.kalvo.com/lib/img/brands/oukitel.svg,https://cdn.kalvo.com/uploads/img/large/56579-oukitel-wp32-pro.jpg
+Archos,6.39,3400,4,16.0,128,300.0,Archos Diamond,https://cdn.kalvo.com/lib/img/brands/archos.svg,https://cdn.kalvo.com/uploads/img/large/archos-diamond.jpg
+Archos,6.85,5000,3,8.0,32,150.0,Archos Oxygen 68XL,https://cdn.kalvo.com/lib/img/brands/archos.svg,https://cdn.kalvo.com/uploads/img/large/archos-oxygen-68xl.jpg
+Archos,6.26,3000,4,8.0,64,130.0,Archos Oxygen 63,https://cdn.kalvo.com/lib/img/brands/archos.svg,https://cdn.kalvo.com/uploads/img/large/archos-oxygen-63.jpg
+Archos,5.71,2800,3,8.0,32,100.0,Archos Oxygen 57,https://cdn.kalvo.com/lib/img/brands/archos.svg,https://cdn.kalvo.com/uploads/img/large/archos-oxygen-57.jpg
+Blackview,6.5,8800,8,50.0,256,359.99,Blackview BV8100,https://cdn.kalvo.com/lib/img/brands/blackview.svg,https://cdn.kalvo.com/uploads/img/large/61791-blackview-bv8100.jpg
+Blackview,6.78,8800,12,50.0,512,699.99,Blackview BL9000 Pro,https://cdn.kalvo.com/lib/img/brands/blackview.svg,https://cdn.kalvo.com/uploads/img/large/60869-blackview-bl9000-pro.jpg
+Blackview,6.75,6000,8,50.0,256,189.99,Blackview Color 8,https://cdn.kalvo.com/lib/img/brands/blackview.svg,https://cdn.kalvo.com/uploads/img/large/59843-blackview-color-8.jpg
+Blackview,6.78,8800,12,50.0,512,450.0,Blackview BL9000,https://cdn.kalvo.com/lib/img/brands/blackview.svg,https://cdn.kalvo.com/uploads/img/large/58561-blackview-bl9000.jpg
+Blackview,6.78,5000,8,64.0,256,144.49,Blackview Shark 8,https://cdn.kalvo.com/lib/img/brands/blackview.svg,https://cdn.kalvo.com/uploads/img/large/56719-blackview-shark-8.jpg
+Allview,6.2,3000,4,16.0,32,330.0,Allview Soul X5 Pro,https://cdn.kalvo.com/lib/img/brands/allview.svg,https://cdn.kalvo.com/uploads/img/large/allview-soul-x5-pro.jpg
+Allview,6.2,4000,3,13.0,32,220.0,Allview Soul X5 Style,https://cdn.kalvo.com/lib/img/brands/allview.svg,https://cdn.kalvo.com/uploads/img/large/allview-soul-x5-style.jpg
+Allview,6.39,3450,4,16.0,64,360.0,Allview Soul X6 Xtreme,https://cdn.kalvo.com/lib/img/brands/allview.svg,https://cdn.kalvo.com/uploads/img/large/allview-soul-x6-xtreme.jpg
+Allview,5.7,2700,2,8.0,16,100.0,Allview V4 Viper,https://cdn.kalvo.com/lib/img/brands/allview.svg,https://cdn.kalvo.com/uploads/img/large/allview-v4-viper.jpg
+Allview,6.8,3500,2,13.0,32,170.0,Allview V4 Viper Pro,https://cdn.kalvo.com/lib/img/brands/allview.svg,https://cdn.kalvo.com/uploads/img/large/allview-v4-viper-pro.jpg
+Allview,6.21,3400,4,13.0,64,130.0,Allview Soul X7 Style,https://cdn.kalvo.com/lib/img/brands/allview.svg,https://cdn.kalvo.com/uploads/img/large/allview-soul-x7-style.jpg
+Sharp,6.1,5000,8,50.0,256,310.0,Sharp Aquos sense8,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/60083-sharp-aquos-sense8.jpg
+Sharp,6.4,4750,8,50.0,256,700.0,Sharp Aquos R8s,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/60073-sharp-aquos-r8s.jpg
+Sharp,6.6,5000,12,47.2,256,930.0,Sharp Aquos R8s pro,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/60063-sharp-aquos-r8s-pro.jpg
+Sharp,6.74,5010,4,50.0,128,180.0,Sharp Aquos V7 Plus,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/55889-sharp-aquos-v7-plus.jpg
+Sharp,6.6,5000,12,47.2,256,1000.0,Sharp Aquos R7s,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/55853-sharp-aquos-r7s.jpg
+Sharp,6.4,5050,6,50.3,128,420.0,Sharp Aquos sense7 plus,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/55361-sharp-aquos-sense7-plus.jpg
+Sharp,6.1,4570,6,50.3,128,380.0,Sharp Aquos sense7,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/55347-sharp-aquos-sense7.jpg
+Sharp,6.0,3130,4,22.6,64,350.0,Sharp Aquos R2,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-r2.jpg
+Sharp,6.52,5000,4,50.0,64,150.0,Sharp Aquos V6 Plus,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/46555-sharp-aquos-v6-plus.jpg
+Sharp,6.52,5000,3,13.0,32,130.0,Sharp Aquos V6,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-v6.jpg
+Sharp,5.7,3730,4,13.0,64,230.0,Sharp Aquos wish,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-wish.jpg
+Sharp,6.4,4010,8,48.0,128,400.0,Sharp Aquos zero6,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-zero6.jpg
+Sharp,5.8,4570,8,12.0,128,250.0,Sharp Aquos sense5G,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-sense5g.jpg
+Sharp,6.7,4120,8,48.0,128,600.0,Sharp Aquos sense4 plus,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-sense4-plus.jpg
+Sharp,6.4,3730,12,48.0,256,700.0,Sharp Aquos R5G,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-r5g.jpg
+Sharp,6.2,3200,6,20.0,128,750.0,Sharp Aquos R3,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-r3.jpg
+Sharp,6.0,3200,8,13.0,64,400.0,Sharp Aquos S3 High,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-s3-high.jpg
+Sharp,5.5,2700,4,12.0,64,400.0,Sharp Aquos C10,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-c10.jpg
+Sharp,5.7,4000,3,13.0,32,300.0,Sharp Aquos B10,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-b10.jpg
+Sharp,5.99,2900,4,13.0,64,400.0,Sharp Aquos D10,https://cdn.kalvo.com/lib/img/brands/sharp.svg,https://cdn.kalvo.com/uploads/img/large/sharp-aquos-d10.jpg
+Alcatel,2.8,1850,512,2.0,4,120.0,Alcatel Go Flip 4,https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/45107-alcatel-go-flip-4.jpg
+Alcatel,6.2,4000,3,12.0,32,180.0,Alcatel 5v,https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-5v.jpg
+Alcatel,6.0,4000,2,12.0,32,150.0,Alcatel 7,https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-7.jpg
+Alcatel,5.5,3000,2,8.0,32,100.0,Alcatel 1B (2022),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-1b-2022.jpg
+Alcatel,6.52,5000,2,13.0,32,100.0,Alcatel 1V (2021),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-1v-2021.jpg
+Alcatel,5.5,3000,2,13.0,16,120.0,Alcatel 1x (2019),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-1x-2019.jpg
+Alcatel,5.0,2000,1,5.0,8,70.0,Alcatel 1c (2019),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-1c-2019.jpg
+Alcatel,5.0,2050,2,5.0,16,40.0,Alcatel Tetra,https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-tetra.jpg
+Alcatel,6.52,4000,4,16.0,64,150.0,Alcatel 3x (2019),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-3x-2019.jpg
+Alcatel,5.5,2460,1,8.0,16,80.0,Alcatel 1v (2019),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-1v-2019.jpg
+Alcatel,5.0,2000,1,5.0,8,60.0,Alcatel 1,https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-1.jpg
+Alcatel,2.4,1530,512,2.0,4,50.0,Alcatel 3088,https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-3088.jpg
+Alcatel,6.22,4000,4,48.0,64,150.0,Alcatel 3L (2020),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-3l-2020.jpg
+Alcatel,6.22,4000,3,13.0,32,100.0,Alcatel 1S (2020),https://cdn.kalvo.com/lib/img/brands/alcatel.svg,https://cdn.kalvo.com/uploads/img/large/alcatel-1s-2020.jpg
+Nothing,6.7,5000,8,50.0,128,306.34,Nothing Phone (2a),https://cdn.kalvo.com/lib/img/brands/nothing.svg,https://cdn.kalvo.com/uploads/img/large/59457-nothing-phone-2a.jpg
+Nothing,6.7,4700,8,50.0,128,514.99,Nothing Phone (2),https://cdn.kalvo.com/lib/img/brands/nothing.svg,https://cdn.kalvo.com/uploads/img/large/53465-nothing-phone-2.jpg
+Nothing,6.55,4500,8,50.0,128,228.59,Nothing Phone (1),https://cdn.kalvo.com/lib/img/brands/nothing.svg,https://cdn.kalvo.com/uploads/img/large/46969-nothing-phone-1.jpg
+BLU,6.78,4700,8,50.0,256,250.0,BLU Bold N3,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/55873-blu-bold-n3.jpg
+BLU,6.78,5000,6,50.0,128,160.0,BLU G93,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/54239-blu-g93.jpg
+BLU,6.8,5000,6,50.0,128,140.0,BLU G73,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/54227-blu-g73.jpg
+BLU,6.8,5000,4,13.0,128,120.0,BLU G63,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/54215-blu-g63.jpg
+BLU,6.5,5000,4,13.0,64,100.0,BLU G53,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/54199-blu-g53.jpg
+BLU,6.26,3000,2,5.0,16,60.0,BLU G33,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/54183-blu-g33.jpg
+BLU,6.5,5000,4,50.0,128,190.0,BLU F92e,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/48545-blu-f92e.jpg
+BLU,6.5,5000,2,13.0,64,90.0,BLU G52L,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/46859-blu-g52l.jpg
+BLU,5.5,2850,1,8.0,8,90.0,BLU Studio View,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/44979-blu-studio-view.jpg
+BLU,5.7,3000,3,13.0,32,120.0,BLU Pure View,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-pure-view.jpg
+BLU,5.7,2700,2,5.0,32,50.0,BLU Studio X5 Max,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-studio-x5-max.jpg
+BLU,5.0,2000,1,5.0,32,50.0,BLU Studio X5,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-studio-x5.jpg
+BLU,6.0,3000,3,13.0,32,100.0,BLU G40,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-g40.jpg
+BLU,5.34,2500,1,8.0,16,100.0,BLU Grand M3,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-grand-m3.jpg
+BLU,5.5,2500,1,8.0,16,80.0,BLU C6,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-c6.jpg
+BLU,6.6,4200,8,64.0,256,230.0,BLU Bold N2,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-bold-n2.jpg
+BLU,5.2,2000,1,8.0,16,70.0,BLU Studio G4,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-studio-g4.jpg
+BLU,5.0,2000,1,8.0,32,50.0,BLU Studio X10L 2022,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-studio-x10l-2022.jpg
+BLU,6.5,5000,4,50.0,128,180.0,BLU S91 Pro,https://cdn.kalvo.com/lib/img/brands/blu.svg,https://cdn.kalvo.com/uploads/img/large/blu-s91-pro.jpg
+BQ,5.65,3100,4,12.0,64,390.0,BQ Aquaris X2 Pro,https://cdn.kalvo.com/lib/img/brands/bq.svg,https://cdn.kalvo.com/uploads/img/large/bq-aquaris-x2-pro.jpg
+BQ,5.65,3100,3,12.0,32,310.0,BQ Aquaris X2,https://cdn.kalvo.com/lib/img/brands/bq.svg,https://cdn.kalvo.com/uploads/img/large/bq-aquaris-x2.jpg
+Coolpad,6.52,4500,4,16.0,128,110.0,Coolpad CP12p,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/53581-coolpad-cp12p.jpg
+Coolpad,6.52,4500,4,13.0,128,90.0,Coolpad CP12,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/53575-coolpad-cp12.jpg
+Coolpad,6.52,4500,4,48.0,128,130.0,Coolpad Cool 20+,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/53563-coolpad-cool-20-plus.jpg
+Coolpad,6.52,4500,4,48.0,64,90.0,Coolpad Cool 20,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-20.jpg
+Coolpad,6.58,4500,6,50.0,128,140.0,Coolpad Cool 20s,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-20s.jpg
+Coolpad,6.2,4000,4,16.0,64,150.0,Coolpad Cool Play 8,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-play-8.jpg
+Coolpad,6.36,4000,3,16.0,32,160.0,Coolpad Legacy,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-legacy.jpg
+Coolpad,6.53,4000,4,48.0,64,360.0,Coolpad Legacy 5G,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-legacy-5g.jpg
+Coolpad,6.58,4500,6,50.0,128,250.0,Coolpad Cool 20 Pro,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-20-pro.jpg
+Coolpad,6.3,4000,4,16.0,64,70.0,Coolpad Cool 12A,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-12a.jpg
+Coolpad,6.52,5000,4,16.0,64,110.0,Coolpad Cool 10,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-10.jpg
+Coolpad,6.53,4000,4,48.0,64,130.0,Coolpad Cool 6,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-6.jpg
+Coolpad,6.53,5000,4,48.0,128,160.0,Coolpad Cool S,https://cdn.kalvo.com/lib/img/brands/coolpad.svg,https://cdn.kalvo.com/uploads/img/large/coolpad-cool-s.jpg
+Energizer,6.51,4000,2,18.0,64,70.0,Energizer Ultimate U652S,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/60909-energizer-ultimate-u652s.jpg
+Energizer,1.77,1000,48,0.3,128,20.0,Energizer E130S,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/60513-energizer-e130s.jpg
+Energizer,5.0,3000,2,5.0,32,60.0,Energizer U506S,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/60335-energizer-u506s.jpg
+Energizer,6.51,4000,4,13.0,64,140.0,Energizer Ultimate 65G,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/60121-energizer-ultimate-65g.jpg
+Energizer,6.78,28000,8,64.0,256,250.0,Energizer Hard Case P28K,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/59375-energizer-hard-case-p28k.jpg
+Energizer,6.82,4900,2,8.0,64,80.0,Energizer U683S,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/58901-energizer-u683s.jpg
+Energizer,6.78,4900,4,48.0,128,310.0,Energizer H67G,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/58701-energizer-h67g.jpg
+Energizer,2.4,2000,512,2.0,4,30.0,Energizer E242s+,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/58103-energizer-e242s-plus.jpg
+Energizer,2.4,1400,0,0.3,0,20.0,Energizer E244s,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/58025-energizer-e244s.jpg
+Energizer,1.77,1000,0,0.0,0,10.0,Energizer E13,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/57853-energizer-e13.jpg
+Energizer,2.4,1000,0,0.0,0,20.0,Energizer E20+,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/57699-energizer-e20-plus.jpg
+Energizer,2.8,1700,0,0.0,0,20.0,Energizer E29,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/57485-energizer-e29.jpg
+Energizer,2.8,4000,32,3.0,32,40.0,Energizer Power Max P20,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-power-max-p20.jpg
+Energizer,1.8,1000,4,0.3,4,10.0,Energizer Energy E10+,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-energy-e10-plus.jpg
+Energizer,1.8,1800,4,0.3,4,20.0,Energizer Energy E11,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-energy-e11.jpg
+Energizer,5.0,2000,1,5.0,8,70.0,Energizer Energy E500,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-energy-e500.jpg
+Energizer,5.0,2000,1,8.0,8,100.0,Energizer Energy E500S,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-energy-e500s.jpg
+Energizer,5.0,3000,2,13.0,16,230.0,Energizer Hardcase H500S,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-hardcase-h500s.jpg
+Energizer,4.95,4000,1,8.0,8,90.0,Energizer Power Max P490,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-power-max-p490.jpg
+Energizer,4.95,4000,2,8.0,16,130.0,Energizer Power Max P490S,https://cdn.kalvo.com/lib/img/brands/energizer.svg,https://cdn.kalvo.com/uploads/img/large/energizer-power-max-p490s.jpg
+Gionee,5.45,2670,2,8.0,16,130.0,Gionee F205,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/45001-gionee-f205.jpg
+Gionee,6.26,3500,4,13.0,32,80.0,Gionee G13 Pro,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-g13-pro.jpg
+Gionee,6.2,4350,6,16.0,128,100.0,Gionee K6,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-k6.jpg
+Gionee,6.53,4000,6,16.0,128,80.0,Gionee K3 Pro,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-k3-pro.jpg
+Gionee,6.1,5000,2,13.0,32,70.0,Gionee Max,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-max.jpg
+Gionee,6.0,10000,8,16.0,128,170.0,Gionee M30,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-m30.jpg
+Gionee,6.52,4000,4,16.0,64,140.0,Gionee S12,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-s12.jpg
+Gionee,6.55,5100,4,48.0,64,150.0,Gionee M12,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-m12.jpg
+Gionee,6.53,4000,6,16.0,128,100.0,Gionee K30 Pro,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-k30-pro.jpg
+Gionee,6.1,3200,2,13.0,16,80.0,Gionee P12,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-p12.jpg
+Gionee,6.52,6000,3,13.0,32,80.0,Gionee Max Pro,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-max-pro.jpg
+Gionee,6.82,6000,3,13.0,64,120.0,Gionee P15 Pro,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-p15-pro.jpg
+Gionee,6.53,5000,6,16.0,128,120.0,Gionee M3,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-m3.jpg
+Gionee,6.67,5100,6,48.0,128,180.0,Gionee M15,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-m15.jpg
+Gionee,6.52,5000,2,13.0,32,100.0,Gionee P15,https://cdn.kalvo.com/lib/img/brands/gionee.svg,https://cdn.kalvo.com/uploads/img/large/gionee-p15.jpg
+Lava,6.5,5000,8,50.0,128,100.0,Lava O2,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/59927-lava-o2.jpg
+Lava,6.67,5000,8,64.0,128,200.0,Lava Blaze Curve,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/59441-lava-blaze-curve.jpg
+Lava,6.5,5000,8,50.0,128,100.0,Lava Yuva 3 Pro,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/57639-lava-yuva-3-pro.jpg
+Lava,6.56,5000,4,50.0,64,110.0,Lava Blaze 2 5G,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/56691-lava-blaze-2-5g.jpg
+Lava,6.52,5000,3,8.0,32,80.0,Lava Z3 Pro,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/55185-lava-z3-pro.jpg
+Lava,6.5,5000,8,50.0,128,110.0,Lava Blaze 2 Pro,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/55173-lava-blaze-2-pro.jpg
+Lava,6.5,5000,3,13.0,64,80.0,Lava Yuva 2,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/54049-lava-yuva-2.jpg
+Lava,6.52,5000,4,13.0,64,90.0,Lava Yuva 2 Pro,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/48021-lava-yuva-2-pro.jpg
+Lava,6.52,4000,3,8.0,32,80.0,Lava X3,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/45661-lava-x3.jpg
+Lava,6.52,5000,4,13.0,64,110.0,Lava Blaze Nxt,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/44799-lava-blaze-nxt.jpg
+Lava,6.52,5000,3,13.0,32,100.0,Lava Yuva Pro,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/lava-yuva-pro.jpg
+Lava,6.52,5000,4,50.0,64,130.0,Lava Blaze Pro,https://cdn.kalvo.com/lib/img/brands/lava.svg,https://cdn.kalvo.com/uploads/img/large/lava-blaze-pro.jpg
+T-Mobile,6.82,5000,6,50.0,128,210.0,T-Mobile REVVL 6x Pro,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/54713-t-mobile-revvl-6x-pro.jpg
+T-Mobile,6.52,4500,4,50.0,64,190.0,T-Mobile REVVL 6x,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/54719-t-mobile-revvl-6x.jpg
+T-Mobile,6.82,5000,6,50.0,128,220.0,T-Mobile REVVL 6 Pro,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/44023-t-mobile-revvl-6-pro-5g.jpg
+T-Mobile,6.52,4500,4,13.0,64,170.0,T-Mobile REVVL 6,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/44001-t-mobile-revvl-6-5g.jpg
+T-Mobile,5.7,3000,3,13.0,32,180.0,T-Mobile Revvlry,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/t-mobile-revvlry.jpg
+T-Mobile,6.24,3000,4,16.0,64,310.0,T-Mobile Revvlry+,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/t-mobile-revvlry-plus.jpg
+T-Mobile,6.22,3500,2,13.0,32,100.0,T-Mobile REVVL 4,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/t-mobile-revvl-4.jpg
+T-Mobile,6.52,4000,4,16.0,64,160.0,T-Mobile REVVL 4+,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/t-mobile-revvl-4-plus.jpg
+T-Mobile,6.53,4500,6,48.0,128,340.0,T-Mobile REVVL 5G,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/t-mobile-revvl-5g.jpg
+T-Mobile,6.82,5000,4,16.0,64,170.0,T-Mobile REVVL V+ 5G,https://cdn.kalvo.com/lib/img/brands/t-mobile.svg,https://cdn.kalvo.com/uploads/img/large/t-mobile-revvl-v-plus-5g.jpg
+TCL,6.6,5010,4,50.0,128,171.22,TCL 50 5G,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/60289-tcl-50-5g.jpg
+TCL,6.78,5010,4,50.0,128,188.39,TCL 50 SE,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/60297-tcl-50-se.jpg
+TCL,6.1,3000,3,13.0,32,70.0,TCL 30 LE,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/55373-tcl-30-le.jpg
+TCL,6.6,5000,6,50.0,256,250.0,TCL 40 NxtPaper 5G,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/54915-tcl-40-nxtpaper-5g.jpg
+TCL,6.78,5010,8,50.0,256,200.0,TCL 40 NxtPaper,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/54903-tcl-40-nxtpaper.jpg
+TCL,6.6,5000,3,13.0,32,110.0,TCL 406,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/48245-tcl-406.jpg
+TCL,6.56,5000,4,50.0,64,190.0,TCL 40 X,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/48233-tcl-40-x.jpg
+TCL,6.75,5000,4,50.0,128,140.0,TCL 40 XL,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/48209-tcl-40-xl.jpg
+TCL,6.0,3000,3,13.0,32,100.0,TCL Ion X,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/46767-tcl-ion-x.jpg
+TCL,6.0,3000,1,8.0,32,80.0,TCL 403,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/46063-tcl-403.jpg
+TCL,6.6,5000,4,50.0,64,130.0,TCL 408,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/46017-tcl-408.jpg
+TCL,6.75,5010,4,50.0,128,84.68,TCL 40 SE,https://cdn.kalvo.com/lib/img/brands/tcl.svg,https://cdn.kalvo.com/uploads/img/large/46001-tcl-40-se.jpg
+Vodafone,5.5,2900,2,13.0,16,120.0,Vodafone Smart N9,https://cdn.kalvo.com/lib/img/brands/vodafone.svg,https://cdn.kalvo.com/uploads/img/large/vodafone-smart-n9.jpg
+Vodafone,5.34,2460,1,8.0,16,100.0,Vodafone Smart N9 lite,https://cdn.kalvo.com/lib/img/brands/vodafone.svg,https://cdn.kalvo.com/uploads/img/large/vodafone-smart-n9-lite.jpg
+Vodafone,5.7,3100,3,16.0,32,110.0,Vodafone Smart X9,https://cdn.kalvo.com/lib/img/brands/vodafone.svg,https://cdn.kalvo.com/uploads/img/large/vodafone-smart-x9.jpg
+Vodafone,5.0,2000,1,5.0,8,70.0,Vodafone Smart E9,https://cdn.kalvo.com/lib/img/brands/vodafone.svg,https://cdn.kalvo.com/uploads/img/large/vodafone-smart-e9.jpg
+Vodafone,5.67,2920,2,13.0,16,150.0,Vodafone Smart N10,https://cdn.kalvo.com/lib/img/brands/vodafone.svg,https://cdn.kalvo.com/uploads/img/large/vodafone-smart-n10.jpg
+Vodafone,5.9,3400,3,13.0,32,180.0,Vodafone Smart V10,https://cdn.kalvo.com/lib/img/brands/vodafone.svg,https://cdn.kalvo.com/uploads/img/large/vodafone-smart-v10.jpg
+Wiko,6.75,6000,8,13.0,128,200.0,Wiko Hi Enjoy 60s,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/56811-wiko-hi-enjoy-60s.jpg
+Wiko,6.78,4000,8,108.0,128,270.0,Wiko 5G,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/45811-wiko-5g.jpg
+Wiko,6.75,5000,4,50.0,128,140.0,Wiko 10,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/45579-wiko-10.jpg
+Wiko,5.99,3730,1,8.0,16,80.0,Wiko Jerry4,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-jerry4.jpg
+Wiko,5.99,3730,1,8.0,16,80.0,Wiko Y70,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-y70.jpg
+Wiko,5.0,2200,1,5.0,16,50.0,Wiko Y50,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-y50.jpg
+Wiko,6.52,5000,3,13.0,64,160.0,Wiko View4,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-view4.jpg
+Wiko,6.55,5000,4,48.0,128,300.0,Wiko View5 Plus,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-view5-plus.jpg
+Wiko,6.55,5000,3,48.0,64,370.0,Wiko View5,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-view5.jpg
+Wiko,5.45,2500,1,5.0,8,70.0,Wiko Y51,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-y51.jpg
+Wiko,5.45,2500,1,5.0,32,60.0,Wiko Sunny5 Lite,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-sunny5-lite.jpg
+Wiko,5.99,3000,1,5.0,32,60.0,Wiko Sunny5,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-sunny5.jpg
+Wiko,6.1,3600,3,13.0,32,90.0,Wiko Y82,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-y82.jpg
+Wiko,5.0,2020,1,5.0,16,50.0,Wiko Y52,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-y52.jpg
+Wiko,6.82,6000,4,13.0,128,150.0,Wiko Power U30,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-power-u30.jpg
+Wiko,6.82,5000,2,13.0,32,100.0,Wiko Power U10,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-power-u10.jpg
+Wiko,6.1,3000,2,8.0,32,70.0,Wiko Y62 Plus,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-y62-plus.jpg
+Wiko,6.1,3000,1,5.0,16,70.0,Wiko Y62,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-y62.jpg
+Wiko,6.82,6000,3,13.0,32,120.0,Wiko Power U20,https://cdn.kalvo.com/lib/img/brands/wiko.svg,https://cdn.kalvo.com/uploads/img/large/wiko-power-u20.jpg
+Yezz,6.52,5000,4,16.0,64,110.0,Yezz Art 3S,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/46847-yezz-art-3s.jpg
+Yezz,5.0,2000,2,8.0,16,60.0,Yezz Liv 3S LTE,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/46827-yezz-liv-3s-lte.jpg
+Yezz,5.45,2600,2,13.0,32,70.0,Yezz Max 3,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/46813-yezz-max-3.jpg
+Yezz,6.1,3700,2,13.0,32,90.0,Yezz Max 3 Plus,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/46797-yezz-max-3-plus.jpg
+Yezz,6.26,3700,2,13.0,32,100.0,Yezz Max 3 Ultra,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/46787-yezz-max-3-ultra.jpg
+Yezz,6.49,5000,6,48.0,128,160.0,Yezz Art 3 Pro,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/46547-yezz-art-3-pro.jpg
+Yezz,6.52,5000,2,13.0,64,120.0,Yezz Art 3 Lite,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/46559-yezz-art-3-lite.jpg
+Yezz,7.0,2500,2,5.0,32,70.0,Yezz EPIC 3,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/yezz-epic-3.jpg
+Yezz,5.5,9000,3,16.0,32,250.0,Yezz Epic T,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/yezz-epic-t.jpg
+Yezz,5.0,2000,2,8.0,16,60.0,Yezz Max 1,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/yezz-max-1.jpg
+Yezz,5.45,2500,1,8.0,32,60.0,Yezz Max 2,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/yezz-max-2.jpg
+Yezz,5.0,2000,1,5.0,16,50.0,Yezz LIV1,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/yezz-liv1.jpg
+Yezz,5.45,2800,2,8.0,16,80.0,Yezz Max 1 Plus,https://cdn.kalvo.com/lib/img/brands/yezz.svg,https://cdn.kalvo.com/uploads/img/large/yezz-max-1-plus.jpg
+Itel,6.56,5000,8,50.0,128,100.0,Itel RS4,https://cdn.kalvo.com/lib/img/brands/itel.svg,https://cdn.kalvo.com/uploads/img/large/60465-itel-rs4.jpg
+Itel,6.78,5000,4,50.0,128,110.0,Itel S23+,https://cdn.kalvo.com/lib/img/brands/itel.svg,https://cdn.kalvo.com/uploads/img/large/55435-itel-s23-plus.jpg
+Itel,6.6,4000,2,8.0,32,70.0,Itel A05s,https://cdn.kalvo.com/lib/img/brands/itel.svg,https://cdn.kalvo.com/uploads/img/large/54533-itel-a05s.jpg
+Fairphone,6.46,4200,8,50.0,256,599.0,Fairphone 5,https://cdn.kalvo.com/lib/img/brands/fairphone.svg,https://cdn.kalvo.com/uploads/img/large/54979-fairphone-5.jpg
+Fairphone,5.65,3040,4,48.0,64,440.0,Fairphone 3+,https://cdn.kalvo.com/lib/img/brands/fairphone.svg,https://cdn.kalvo.com/uploads/img/large/fairphone-3-plus.jpg
+Fairphone,5.65,3040,4,12.0,64,400.0,Fairphone 3,https://cdn.kalvo.com/lib/img/brands/fairphone.svg,https://cdn.kalvo.com/uploads/img/large/fairphone-3.jpg
+Fairphone,6.3,3905,6,48.0,128,400.0,Fairphone 4,https://cdn.kalvo.com/lib/img/brands/fairphone.svg,https://cdn.kalvo.com/uploads/img/large/49969-fairphone-4.jpg
+Carbon,6.01,3000,8,16.0,256,800.0,Carbon 1 MK II,https://cdn.kalvo.com/lib/img/brands/carbon.svg,https://cdn.kalvo.com/uploads/img/large/carbon-1-mk-ii.jpg
+Doogee,4.5,3000,8,50.0,256,179.99,Doogee Smini,https://cdn.kalvo.com/lib/img/brands/doogee.svg,https://cdn.kalvo.com/uploads/img/large/56539-doogee-smini.jpg
+Doogee,6.58,10800,12,200.0,512,449.99,Doogee V30 Pro,https://cdn.kalvo.com/lib/img/brands/doogee.svg,https://cdn.kalvo.com/uploads/img/large/56375-doogee-v30-pro.jpg
+Doogee,6.58,10800,12,50.0,256,320.0,Doogee S110,https://cdn.kalvo.com/lib/img/brands/doogee.svg,https://cdn.kalvo.com/uploads/img/large/54583-doogee-s110.jpg
+Doogee,6.52,4200,8,50.0,128,180.0,Doogee N50,https://cdn.kalvo.com/lib/img/brands/doogee.svg,https://cdn.kalvo.com/uploads/img/large/52633-doogee-n50.jpg
+Doogee,6.58,10800,12,108.0,256,420.0,Doogee V30T,https://cdn.kalvo.com/lib/img/brands/doogee.svg,https://cdn.kalvo.com/uploads/img/large/52605-doogee-v30t.jpg
+Doogee,6.58,22000,12,108.0,256,284.99,Doogee S100 Pro,https://cdn.kalvo.com/lib/img/brands/doogee.svg,https://cdn.kalvo.com/uploads/img/large/52593-doogee-s100-pro.jpg
+Philips,6.21,3900,4,13.0,128,110.0,Philips PH2,https://cdn.kalvo.com/lib/img/brands/philips.svg,https://cdn.kalvo.com/uploads/img/large/philips-ph2.jpg
+Philips,6.51,4700,4,13.0,32,70.0,Philips PH1,https://cdn.kalvo.com/lib/img/brands/philips.svg,https://cdn.kalvo.com/uploads/img/large/philips-ph1.jpg
+Orange,6.47,4000,6,48.0,128,900.0,Orange Neva jet 5G,https://cdn.kalvo.com/lib/img/brands/orange.svg,https://cdn.kalvo.com/uploads/img/large/orange-neva-jet-5g.jpg
+Panasonic,6.18,3000,4,16.0,64,350.0,Panasonic Eluga X1 Pro,https://cdn.kalvo.com/lib/img/brands/panasonic.svg,https://cdn.kalvo.com/uploads/img/large/panasonic-eluga-x1-pro.jpg
+Panasonic,6.19,4000,3,13.0,32,200.0,Panasonic Eluga Z1 Pro,https://cdn.kalvo.com/lib/img/brands/panasonic.svg,https://cdn.kalvo.com/uploads/img/large/panasonic-eluga-z1-pro.jpg
+Umidigi,6.6,5000,8,50.0,128,179.99,Umidigi G5,https://cdn.kalvo.com/lib/img/brands/umidigi.svg,https://cdn.kalvo.com/uploads/img/large/61559-umidigi-g5.jpg
+Umidigi,6.52,5000,4,13.0,64,104.99,Umidigi G5A,https://cdn.kalvo.com/lib/img/brands/umidigi.svg,https://cdn.kalvo.com/uploads/img/large/61551-umidigi-g5a.jpg
+Umidigi,6.53,6000,6,20.0,128,199.99,Umidigi Bison X20,https://cdn.kalvo.com/lib/img/brands/umidigi.svg,https://cdn.kalvo.com/uploads/img/large/61493-umidigi-bison-x20.jpg
+Umidigi,6.7,5000,8,64.0,128,219.99,Umidigi A15T,https://cdn.kalvo.com/lib/img/brands/umidigi.svg,https://cdn.kalvo.com/uploads/img/large/61473-umidigi-a15t.jpg
+Umidigi,6.3,5150,4,16.0,128,200.0,Umidigi F1,https://cdn.kalvo.com/lib/img/brands/umidigi.svg,https://cdn.kalvo.com/uploads/img/large/umidigi-f1.jpg
+Umidigi,6.3,4150,4,12.0,128,160.0,Umidigi One Max,https://cdn.kalvo.com/lib/img/brands/umidigi.svg,https://cdn.kalvo.com/uploads/img/large/umidigi-one-max.jpg
+Kyocera,5.0,3240,4,13.0,64,400.0,Kyocera DuraForce Pro 2,https://cdn.kalvo.com/lib/img/brands/kyocera.svg,https://cdn.kalvo.com/uploads/img/large/kyocera-duraforce-pro-2.jpg
+RED,5.7,4500,6,12.3,128,1200.0,RED Hydrogen One,https://cdn.kalvo.com/lib/img/brands/red.svg,https://cdn.kalvo.com/uploads/img/large/red-hydrogen-one.jpg
+Razer,5.72,4000,8,12.0,64,850.0,Razer Phone 2,https://cdn.kalvo.com/lib/img/brands/razer.svg,https://cdn.kalvo.com/uploads/img/large/razer-phone-2.jpg
+LandRover,5.0,4000,4,16.0,64,650.0,LandRover Explore,https://cdn.kalvo.com/lib/img/brands/land-rover.svg,https://cdn.kalvo.com/uploads/img/large/landrover-explore.jpg
+Sonim,2.8,3500,2,8.0,16,300.0,Sonim XP5plus,https://cdn.kalvo.com/lib/img/brands/sonim.svg,https://cdn.kalvo.com/uploads/img/large/sonim-xp5plus.jpg
+Sonim,2.64,3180,2,5.0,16,340.0,Sonim XP5s,https://cdn.kalvo.com/lib/img/brands/sonim.svg,https://cdn.kalvo.com/uploads/img/large/sonim-xp5s.jpg
+Sonim,2.6,1500,1,5.0,8,190.0,Sonim XP3,https://cdn.kalvo.com/lib/img/brands/sonim.svg,https://cdn.kalvo.com/uploads/img/large/sonim-xp3.jpg
+Sonim,2.8,2300,2,8.0,16,240.0,Sonim XP3plus,https://cdn.kalvo.com/lib/img/brands/sonim.svg,https://cdn.kalvo.com/uploads/img/large/sonim-xp3plus.jpg
+Palm,3.3,800,3,12.0,32,400.0,Palm Phone PVG100,https://cdn.kalvo.com/lib/img/brands/palm.svg,https://cdn.kalvo.com/uploads/img/large/palm-palm.jpg
+CUBOT,6.58,5100,12,100.0,256,264.95,CUBOT KingKong AX,https://cdn.kalvo.com/lib/img/brands/cubot.svg,https://cdn.kalvo.com/uploads/img/large/60315-cubot-kingkong-ax.jpg
+CUBOT,6.56,5100,4,13.0,128,99.95,CUBOT A1,https://cdn.kalvo.com/lib/img/brands/cubot.svg,https://cdn.kalvo.com/uploads/img/large/60305-cubot-a1.jpg
+CUBOT,6.53,10600,12,48.0,256,151.99,CUBOT KingKong 8,https://cdn.kalvo.com/lib/img/brands/cubot.svg,https://cdn.kalvo.com/uploads/img/large/56423-cubot-kingkong-8.jpg
+CUBOT,6.56,5200,6,50.0,256,99.99,CUBOT Note 40,https://cdn.kalvo.com/lib/img/brands/cubot.svg,https://cdn.kalvo.com/uploads/img/large/56237-cubot-note-40.jpg
+CUBOT,6.56,5200,6,50.0,128,99.99,CUBOT Note 21,https://cdn.kalvo.com/lib/img/brands/cubot.svg,https://cdn.kalvo.com/uploads/img/large/55079-cubot-note-21.jpg
+CUBOT,6.56,5200,8,50.0,256,130.0,CUBOT Note 50,https://cdn.kalvo.com/lib/img/brands/cubot.svg,https://cdn.kalvo.com/uploads/img/large/53935-cubot-note-50.jpg
+CUBOT,6.78,10600,12,100.0,256,284.99,CUBOT KingKong Star,https://cdn.kalvo.com/lib/img/brands/cubot.svg,https://cdn.kalvo.com/uploads/img/large/53803-cubot-kingkong-star.jpg
+HMD,6.56,5000,4,13.0,64,110.0,HMD Aura,https://cdn.kalvo.com/lib/img/brands/hmd.svg,https://cdn.kalvo.com/uploads/img/large/61689-hmd-aura.jpg
+HMD,6.49,4800,6,64.0,128,600.0,HMD XR21,https://cdn.kalvo.com/lib/img/brands/hmd.svg,https://cdn.kalvo.com/uploads/img/large/61353-hmd-xr21.jpg
+HMD,6.65,5000,4,50.0,128,159.99,HMD Pulse+,https://cdn.kalvo.com/lib/img/brands/hmd.svg,https://cdn.kalvo.com/uploads/img/large/60755-hmd-pulse-plus.jpg
+HMD,6.65,5000,4,50.0,128,174.99,HMD Pulse Pro,https://cdn.kalvo.com/lib/img/brands/hmd.svg,https://cdn.kalvo.com/uploads/img/large/60765-hmd-pulse-pro.jpg
+HMD,6.65,5000,4,13.0,64,139.97,HMD Pulse,https://cdn.kalvo.com/lib/img/brands/hmd.svg,https://cdn.kalvo.com/uploads/img/large/60775-hmd-pulse.jpg
+Micromax,6.52,5000,3,8.0,32,100.0,Micromax In 2c,https://cdn.kalvo.com/lib/img/brands/micromax.svg,https://cdn.kalvo.com/uploads/img/large/micromax-in-2c.jpg
+Micromax,6.43,5000,4,48.0,64,150.0,Micromax In note 2,https://cdn.kalvo.com/lib/img/brands/micromax.svg,https://cdn.kalvo.com/uploads/img/large/micromax-in-note-2.jpg
+Micromax,6.52,5000,2,13.0,32,80.0,Micromax In 1b,https://cdn.kalvo.com/lib/img/brands/micromax.svg,https://cdn.kalvo.com/uploads/img/large/micromax-in-1b.jpg
+Micromax,6.67,5000,4,48.0,64,130.0,Micromax In note 1,https://cdn.kalvo.com/lib/img/brands/micromax.svg,https://cdn.kalvo.com/uploads/img/large/micromax-in-note-1.jpg
+Micromax,6.67,5000,4,48.0,64,120.0,Micromax In 1,https://cdn.kalvo.com/lib/img/brands/micromax.svg,https://cdn.kalvo.com/uploads/img/large/micromax-in-1.jpg
+Micromax,6.52,5000,4,13.0,64,90.0,Micromax In 2b,https://cdn.kalvo.com/lib/img/brands/micromax.svg,https://cdn.kalvo.com/uploads/img/large/micromax-in-2b.jpg
