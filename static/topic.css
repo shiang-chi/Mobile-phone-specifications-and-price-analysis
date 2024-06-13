@@ -8,10 +8,10 @@ html, body {
 
 body {
   background-image: url('source/topic背景.gif');
-  background-size: 100% 100%; /* 圖片會強制填滿整個背景 */
-  /*background-position: center; /* 圖片置中 */
-  background-repeat: no-repeat; /* 防止背景圖片重複 */
-  background-attachment: fixed; /* 背景固定，不隨視窗滾動 */
+  background-size: 100% 100%;
+  /*background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
